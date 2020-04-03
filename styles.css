@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'dosis', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  font-size: 4rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #679b9b;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #679b9b;
+  font-weight: normal;
+  width: 50%;
+  margin: 30px auto 30px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.middle-text {
+  width: 30%;
+  margin: 20px auto 40px auto;
+  text-align: center;
+}
+
+.skills-text{
+  width: 80%;
+}
+
+.skills-text2{
+  width: 80%;
+}
+
+h3 {
+  color: #aacfcf;
+}
+
+a {
+  color: #aacfcf;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #679b9b;
+}
+
+.top-container {
+  background-color: #FDE2E2;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.bottom-container {}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.camilla {
+  border-radius: 100%;
+  width: 140px;
+  height: 140px;
+}
+
+.passport {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.passport-2{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.cow {
+  height: 80px;
+  position: relative;
+  left: 200px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 5%;
+  border-width: 5px;
+  border-color: #dee3e2;
+
+}
+
+.bottom-container {
+  background-color: #fde2e2;
+  padding-top: 25px;
+}
+
+.footer-link {
+  padding: 5px;
+  margin-bottom: 0;
+}
+
+.contact-me {
+  width: 30%;
+  margin: 50px auto 50px auto;
+  text-align: center;
+}
+
+.copy-mimi {
+  margin-bottom: 0;
+  padding-bottom: 10px;
+  color: #679b9b;
+  font-size: 0.77rem;
+}
